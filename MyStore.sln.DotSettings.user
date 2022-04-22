@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b1c9982_002Db276_002D4315_002D84f2_002D97e3ed58b590/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="When_Call_CartController_GetCart_Should_ReturnOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::3256806E-84C0-490C-A344-9FAC490BE00F::net6.0::MyStore.Application.Test.Controllers.CartControllerTest.When_Call_CartController_GetCart_Should_ReturnOk&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.ProductTest.Product_Should_Be_Cannot_Be_Created_Without_Name&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.ProductTest.Product_Name_Cannot_Be_String_Empty&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.ProductTest.Product_With_Empty_Name_Should_Be_Throws_Argument_Expection&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.ProductTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.CartTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3256806E-84C0-490C-A344-9FAC490BE00F::net6.0::MyStore.Application.Test.Controllers.CartControllerTest.When_Call_CartController_GetCart_Should&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\carlo\RiderProjects\MyStore\MyStore.Application.Test" Presentation="&amp;lt;Test&amp;gt;\&amp;lt;MyStore.Application.Test&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=978474b5_002D47de_002D4f9b_002Da646_002D77e21f5c720d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CartController_Get_ShouldReturnOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3256806E-84C0-490C-A344-9FAC490BE00F::net6.0::MyStore.Application.Test.Controllers.CartControllerTest.When_Call_CartController_GetCart_Should_ReturnOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F8DE21F0-C1FC-4F2F-B44E-86B63CA761A2::net6.0::Domain.Test.Entities.ProductTest.Product_Should_Be_Cannot_Be_Created_Without_Name&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

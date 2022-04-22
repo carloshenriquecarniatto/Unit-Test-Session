@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pvI0wuSWL2mFCBiKxgkkv6+qG1nS3bHuJ10e7gMtE64=",
+  "Source": "MyStore.Application",
+  "BasePath": "_content/MyStore.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
